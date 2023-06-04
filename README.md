@@ -1,6 +1,6 @@
 # Artiq RP
 
-Welkom bij mijn FiveM rollenspelserverrepository! Deze repository bevat alle benodigde bronnen en documentatie voor het uitvoeren van een succesvolle FiveM rollenspelserver. Hier vindt u alles wat u moet weten over het instellen en aanpassen van uw server.
+
 
 ## Functies
 
