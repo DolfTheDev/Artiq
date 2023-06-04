@@ -1,6 +1,6 @@
 # Artiq RP
 
-
+https://discord.gg/C3TwpJbThn
 
 ## Functies
 
